@@ -10,6 +10,8 @@ as heading along with a logo. There should be a tab with the following links:</l
 <li> Heritage;</li>
 <li> Hotel Booking;</li>
 <li> Gallery.</li>
+
+
 There should be an appropriate description of the college on the home page.
 <li> One Heritage page which contains a list of all the Heritage Sites present in the city. The list
 should be a list of Pictures. There should be a minimum of ten heritage sites. Each Image entry
